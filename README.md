@@ -1,4 +1,4 @@
-![patoLib.png](/assets/repo_screenshots/patoLogoLib.png)
+![patoLib.png](/assets/patoLogoLibBanner.png)
 # Bug-Ao-Bounty-Lib
 **Wiki extra-oficial da Pato Academy, sugerida pela comunidade.**
 
