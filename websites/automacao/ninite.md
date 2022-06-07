@@ -1,4 +1,4 @@
-# NINITE
+# 🔧 NINITE
 https://ninite.com/
 
 Serve para fazer um bundle instalador com diversos programas, útil para usar depois de formatar um sistema e baixar vários programas de uma vez só.
